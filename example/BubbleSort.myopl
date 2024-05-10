@@ -1,0 +1,14 @@
+kaarya bubbleSort(a)
+    aguva_varigu i = 0 inda udda(a) aadamele
+        akshara badalisu = FALSE
+        aguva_varigu j = 0 inda i aadamele
+            aadare a/i > a/i+1 aadamele bari(a/i);akshara badalisu = TRUE;akshara temp = a/i;akshara temp2 = a/i+1
+        mugisu
+    mugisu
+mugisu
+
+
+
+akshara a = [1,2,4,5,3]
+akshara sorted = bubbleSort(a)
+bari(sorted)

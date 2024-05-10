@@ -1,0 +1,8 @@
+FUN search(a,x,l)
+    FOR i = 0 TO l THEN
+        IF a/i == x THEN RETURN i
+    END
+    RETURN -1
+END
+
+PRINT(search([1,2,3,4,5],10,5))

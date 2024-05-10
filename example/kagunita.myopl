@@ -1,0 +1,10 @@
+akshara x = ["a","aa","i","ii","u","uu","ru"]
+
+aguva_varigu i = 0 inda udda(x)+1 aadamele
+akshara z = []
+aguva_varigu j = 0 inda i aadamele
+
+serisu(z,"k"+x/j)
+mugisu
+bari(z)
+mugisu

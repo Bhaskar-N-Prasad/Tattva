@@ -1,0 +1,12 @@
+aguva_varigu i = 0 inda 10 aadamele
+    bari(i)
+mugisu
+
+akshara patti = [1,2,3,4,5]
+akshara len = udda(patti)
+aguva_varigu i = 0 inda len aadamele
+    bari(patti/i)
+mugisu
+
+akshara a = []
+aguva_varigu i = 0 inda 10 aadamele; aadare i == 4 aadamele mundu_varisu illadiddare i == 8 aadamele murisu; akshara a = a + i;mugisu

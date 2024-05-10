@@ -1,0 +1,13 @@
+bari("ondu anke bareyiri")
+akshara a = odu()
+bari("innondu anke bareyiri")
+akshara b = odu()
+bari("badalisuva munna")
+bari("a = " + a)
+bari("b = " + b)
+akshara c = a
+akshara a = b
+akshara b = c
+bari("badalisida nantara")
+bari("a = " + a)
+bari("b = " + b)
